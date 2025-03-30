@@ -1,0 +1,2862 @@
+[
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "GT Neo6 SE",
+    "height": "2780",
+    "model": "RMX3850",
+    "model_chipset": "qualcomm_sm7675",
+    "operators": "XL",
+    "width": "1264"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy M35",
+    "height": "2340",
+    "model": "SM-M356B",
+    "model_chipset": "exynos_1380",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 2 XL",
+    "height": "2880",
+    "model": "G011C",
+    "model_chipset": "qualcomm_unknown",
+    "operators": "Tri",
+    "width": "1440"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno12 Pro (China)",
+    "height": "2412",
+    "model": "PJW110",
+    "model_chipset": "mediatek_dimensity_9200",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Watch 5 Lite",
+    "height": "502",
+    "model": "M2352W1",
+    "model_chipset": "unknown",
+    "operators": "Smartfren",
+    "width": "410"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y58",
+    "height": "2408",
+    "model": "V2355",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "12 4G",
+    "height": "2400",
+    "model": "RMX3871",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno12 F",
+    "height": "2400",
+    "model": "CPH2637",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.0,
+    "device": "Galaxy Tab A9",
+    "height": "1340",
+    "model": "SM-X110",
+    "model_chipset": "mediatek_helio_g99",
+    "operators": "Telkomsel",
+    "width": "800"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A15",
+    "height": "2340",
+    "model": "SM-A155F",
+    "model_chipset": "mediatek_helio_g99",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 6a",
+    "height": "2400",
+    "model": "GX7AS",
+    "model_chipset": "google_tensor",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy M05",
+    "height": "1600",
+    "model": "SM-M055F",
+    "model_chipset": "mediatek_helio_g85",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno13 F",
+    "height": "2400",
+    "model": "CPH2699",
+    "model_chipset": "qualcomm_sm6450",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Find X8",
+    "height": "2760",
+    "model": "CPH2651",
+    "model_chipset": "mediatek_dimensity_9400",
+    "operators": "Indosat",
+    "width": "1256"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy A06",
+    "height": "1600",
+    "model": "SM-A065F",
+    "model_chipset": "mediatek_helio_g85",
+    "operators": "Tri",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "GT7 Pro Racing",
+    "height": "2780",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Smartfren",
+    "width": "1264"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi 14R",
+    "height": "1640",
+    "model": "2155K317",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Z9s Pro",
+    "height": "2392",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm7550-ab",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "V40e",
+    "height": "2392",
+    "model": "V2403",
+    "model_chipset": "mediatek_dimensity_7300",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.33,
+    "device": "Galaxy Tab S6 Lite (2024)",
+    "height": "2000",
+    "model": "SM-P620",
+    "model_chipset": "exynos_1280",
+    "operators": "XL",
+    "width": "1200"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "V40 Lite",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm6450",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 3.0,
+    "device": "Redmi K80",
+    "height": "3200",
+    "model": "2196K199",
+    "model_chipset": "qualcomm_sm8650-ab",
+    "operators": "Smartfren",
+    "width": "1440"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "V40 Pro",
+    "height": "2800",
+    "model": "V2347",
+    "model_chipset": "mediatek_dimensity_9200",
+    "operators": "Telkomsel",
+    "width": "1260"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy C55",
+    "height": "2400",
+    "model": "SM-C5560",
+    "model_chipset": "qualcomm_sm7450-ab",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "Narzo N65",
+    "height": "1604",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Tri",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y37",
+    "height": "1612",
+    "model": "V2357A",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy M55",
+    "height": "2400",
+    "model": "SM-M556B",
+    "model_chipset": "qualcomm_sm7450-ab",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 3.0,
+    "device": "Galaxy S25 Ultra",
+    "height": "3120",
+    "model": "SM-S938B",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Telkomsel",
+    "width": "1440"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy A06 5G",
+    "height": "1600",
+    "model": "SM-A066B",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 3.0,
+    "device": "Redmi K80 Pro",
+    "height": "3200",
+    "model": "2118K212",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "XL",
+    "width": "1440"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "Pad 3",
+    "height": "2800",
+    "model": "OPD2405",
+    "model_chipset": "mediatek_dimensity_8350",
+    "operators": "XL",
+    "width": "2000"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy Watch7",
+    "height": "480",
+    "model": "SM-L310F",
+    "model_chipset": "exynos_1000",
+    "operators": "XL",
+    "width": "480"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "C61",
+    "height": "1600",
+    "model": "RMX3939",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y300 (China)",
+    "height": "2392",
+    "model": "V2435",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Pad3",
+    "height": "2800",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "Telkomsel",
+    "width": "1968"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy F06 5G",
+    "height": "1600",
+    "model": "SM-E066B",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "iQOO Pad2 Pro",
+    "height": "3096",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "XL",
+    "width": "2064"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno11 (China)",
+    "height": "2412",
+    "model": "PJH110",
+    "model_chipset": "mediatek_dimensity_8200",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "V60",
+    "height": "1604",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno11 Pro",
+    "height": "2412",
+    "model": "CPH2607",
+    "model_chipset": "mediatek_dimensity_8200",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel Fold",
+    "height": "2208",
+    "model": "G9FPL",
+    "model_chipset": "google_tensor_g2",
+    "operators": "Tri",
+    "width": "1840"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y29 4G",
+    "height": "1608",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 4a",
+    "height": "2340",
+    "model": "G025J",
+    "model_chipset": "qualcomm_snapdragon_730_730",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno12 Pro",
+    "height": "2412",
+    "model": "CPH2629",
+    "model_chipset": "mediatek_dimensity_7300_energy",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Neo7 SE",
+    "height": "2780",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_8400_max",
+    "operators": "XL",
+    "width": "1264"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "K12x (China)",
+    "height": "2400",
+    "model": "PJT110",
+    "model_chipset": "qualcomm_sm6375",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy S23 FE",
+    "height": "2340",
+    "model": "SM-S711B",
+    "model_chipset": "exynos_2200",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "GT 6T",
+    "height": "2780",
+    "model": "RMX3853",
+    "model_chipset": "qualcomm_sm7675",
+    "operators": "Telkomsel",
+    "width": "1264"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "V40 Lite (IDN)",
+    "height": "2400",
+    "model": "V2417",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y04",
+    "height": "1600",
+    "model": "Unknown",
+    "model_chipset": "unisoc_t7225",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.0,
+    "device": "Pad 2 Lite",
+    "height": "1920",
+    "model": "Unknown",
+    "model_chipset": "mediatek_helio_g99",
+    "operators": "Telkomsel",
+    "width": "1200"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Neo 10R",
+    "height": "2800",
+    "model": "I2221",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "Smartfren",
+    "width": "1260"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "14 Civi",
+    "height": "2750",
+    "model": "2038T564",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "Indosat",
+    "width": "1236"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "Pad Neo",
+    "height": "2408",
+    "model": "OPD2302",
+    "model_chipset": "mediatek_helio_g99",
+    "operators": "XL",
+    "width": "1720"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel",
+    "height": "1920",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_unknown",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Watch 5",
+    "height": "514",
+    "model": "M2427W1",
+    "model_chipset": "unknown",
+    "operators": "XL",
+    "width": "432"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y29s",
+    "height": "1600",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "F25 Pro",
+    "height": "2412",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "14T Pro",
+    "height": "2712",
+    "model": "2407FPN8EG",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Smartfren",
+    "width": "1220"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 Pro+ 5G (India)",
+    "height": "2712",
+    "model": "24115RA8EC",
+    "model_chipset": "qualcomm_sm7635",
+    "operators": "Smartfren",
+    "width": "1220"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.0,
+    "device": "Redmi Pad SE 8.7",
+    "height": "1340",
+    "model": "220233L2G",
+    "model_chipset": "mediatek_helio_g85",
+    "operators": "XL",
+    "width": "800"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno12 (China)",
+    "height": "2412",
+    "model": "PJV110",
+    "model_chipset": "mediatek_dimensity_8250",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "X200 Pro",
+    "height": "2800",
+    "model": "V2413",
+    "model_chipset": "mediatek_dimensity_9400",
+    "operators": "Smartfren",
+    "width": "1260"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "A79",
+    "height": "2400",
+    "model": "CPH2553",
+    "model_chipset": "mediatek_dimensity_6020",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "Narzo N61",
+    "height": "1600",
+    "model": "Unknown",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "Tri",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "14x",
+    "height": "1604",
+    "model": "RMX5020",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy Z Fold Special",
+    "height": "2184",
+    "model": "SM-F958N",
+    "model_chipset": "qualcomm_sm8650-ac",
+    "operators": "Smartfren",
+    "width": "1968"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy M16",
+    "height": "2340",
+    "model": "SM-M166P",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Poco X7",
+    "height": "2712",
+    "model": "24095PCADG",
+    "model_chipset": "mediatek_dimensity_7300_ultra",
+    "operators": "Smartfren",
+    "width": "1220"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Poco F6",
+    "height": "2712",
+    "model": "24069PC21G",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "Smartfren",
+    "width": "1220"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A3",
+    "height": "1604",
+    "model": "CPH2683",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 3 XL",
+    "height": "2960",
+    "model": "G013C",
+    "model_chipset": "qualcomm_snapdragon_845_845",
+    "operators": "Telkomsel",
+    "width": "1440"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "P3 Pro",
+    "height": "2800",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm7635",
+    "operators": "Indosat",
+    "width": "1272"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y200+",
+    "height": "1608",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Pad 7",
+    "height": "3200",
+    "model": "2004T940",
+    "model_chipset": "qualcomm_sm7675-ab",
+    "operators": "Smartfren",
+    "width": "2136"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "V40 Lite 4G (IDN)",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 5",
+    "height": "2340",
+    "model": "GD1YQ",
+    "model_chipset": "qualcomm_sm7250",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi Watch 5 Active",
+    "height": "385",
+    "model": "2300G454",
+    "model_chipset": "unknown",
+    "operators": "XL",
+    "width": "320"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy S24 FE",
+    "height": "2340",
+    "model": "SM-S721B",
+    "model_chipset": "exynos_2400",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy Watch FE",
+    "height": "396",
+    "model": "SM-R861",
+    "model_chipset": "exynos_920",
+    "operators": "XL",
+    "width": "396"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y28s",
+    "height": "1612",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y300i",
+    "height": "1608",
+    "model": "V2444A",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Neo7",
+    "height": "2780",
+    "model": "RMX5060",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Tri",
+    "width": "1264"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno11 F",
+    "height": "2412",
+    "model": "CPH2603",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno11",
+    "height": "2412",
+    "model": "CPH2599",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 3.0,
+    "device": "Galaxy S24 Ultra",
+    "height": "3120",
+    "model": "SM-S928B",
+    "model_chipset": "qualcomm_sm8650-ac",
+    "operators": "Tri",
+    "width": "1440"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "P1",
+    "height": "2400",
+    "model": "RMX3870",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "14 Pro",
+    "height": "2392",
+    "model": "RMX5056",
+    "model_chipset": "mediatek_dimensity_7300_energy",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy F14 4G",
+    "height": "2400",
+    "model": "SM-E145F",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi A3x",
+    "height": "1650",
+    "model": "24048RN6CG",
+    "model_chipset": "unisoc_t603",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "15",
+    "height": "2670",
+    "model": "24129PN74G",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Tri",
+    "width": "1200"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A3 Pro",
+    "height": "1604",
+    "model": "CPH2639",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy Z Fold6",
+    "height": "2160",
+    "model": "SM-F956B",
+    "model_chipset": "qualcomm_sm8650-ac",
+    "operators": "Telkomsel",
+    "width": "1856"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "13",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 3.0,
+    "device": "Galaxy S25+",
+    "height": "3120",
+    "model": "SM-S936B",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Telkomsel",
+    "width": "1440"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "iQOO Z9 Lite",
+    "height": "1612",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "P3x",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6400",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "14 Pro Lite",
+    "height": "2412",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm7435-ab",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno11 Pro (China)",
+    "height": "2772",
+    "model": "PJJ110",
+    "model_chipset": "qualcomm_sm8475",
+    "operators": "Indosat",
+    "width": "1240"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Find X8 Pro",
+    "height": "2780",
+    "model": "CPH2659",
+    "model_chipset": "mediatek_dimensity_9400",
+    "operators": "Telkomsel",
+    "width": "1264"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "13 Pro+",
+    "height": "2412",
+    "model": "RMX3920",
+    "model_chipset": "qualcomm_sm7435-ab",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "F27",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "P1 Speed",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_7300_energy",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Mix Fold 4",
+    "height": "2488",
+    "model": "2082K665",
+    "model_chipset": "qualcomm_sm8650-ab",
+    "operators": "Tri",
+    "width": "2224"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 6 Pro",
+    "height": "3120",
+    "model": "GLUOG",
+    "model_chipset": "google_tensor",
+    "operators": "Telkomsel",
+    "width": "1440"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A5 Pro",
+    "height": "1604",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A56",
+    "height": "2340",
+    "model": "SM-A566V",
+    "model_chipset": "exynos_1580",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "A5 Pro (China)",
+    "height": "2412",
+    "model": "PKP110",
+    "model_chipset": "mediatek_dimensity_7300",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A35",
+    "height": "2340",
+    "model": "SM-A356E",
+    "model_chipset": "exynos_1380",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "Watch X2",
+    "height": "466",
+    "model": "OPWWE251",
+    "model_chipset": "qualcomm_snapdragon_5_1",
+    "operators": "Tri",
+    "width": "466"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 6",
+    "height": "2400",
+    "model": "GB7N6",
+    "model_chipset": "google_tensor",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 5G",
+    "height": "2400",
+    "model": "24094RAD4G",
+    "model_chipset": "mediatek_dimensity_7025_ultra",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi A4",
+    "height": "1640",
+    "model": "24116RNC1I",
+    "model_chipset": "qualcomm_sm4635",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "C63 5G",
+    "height": "1604",
+    "model": "RMX3950",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y200 (Asia)",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "13+",
+    "height": "2400",
+    "model": "RMX5002",
+    "model_chipset": "mediatek_dimensity_7300_energy",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Poco M7 Pro 5G",
+    "height": "2400",
+    "model": "2042K615",
+    "model_chipset": "mediatek_dimensity_7025_ultra",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 8",
+    "height": "2400",
+    "model": "GKWS6",
+    "model_chipset": "google_tensor_g3",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 4G",
+    "height": "2400",
+    "model": "24117RN76G",
+    "model_chipset": "mediatek_helio_g99_ultra",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Find N3",
+    "height": "2440",
+    "model": "CPH2499",
+    "model_chipset": "qualcomm_sm8550-ab",
+    "operators": "Smartfren",
+    "width": "2268"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno13 F 4G",
+    "height": "2400",
+    "model": "CPH2701",
+    "model_chipset": "mediatek_helio_g100",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "14 Pro+",
+    "height": "2800",
+    "model": "RMX5051",
+    "model_chipset": "qualcomm_sm7635",
+    "operators": "Smartfren",
+    "width": "1272"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Watch S4 Sport",
+    "height": "466",
+    "model": "M2312W1",
+    "model_chipset": "unknown",
+    "operators": "Tri",
+    "width": "466"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 4 XL",
+    "height": "3040",
+    "model": "G020P",
+    "model_chipset": "qualcomm_sm8150",
+    "operators": "Tri",
+    "width": "1440"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 Pro 4G",
+    "height": "2400",
+    "model": "24116RACCG",
+    "model_chipset": "mediatek_helio_g100_ultra",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A3x 4G",
+    "height": "1604",
+    "model": "CPH2641",
+    "model_chipset": "qualcomm_snapdragon_6_1",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Mix Flip",
+    "height": "2912",
+    "model": "2405CPX3DC",
+    "model_chipset": "qualcomm_sm8650-ab",
+    "operators": "Indosat",
+    "width": "1224"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 Pro 5G",
+    "height": "2712",
+    "model": "24090RA29G",
+    "model_chipset": "mediatek_dimensity_7300_ultra",
+    "operators": "Smartfren",
+    "width": "1220"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Neo9S Pro+",
+    "height": "2800",
+    "model": "V2403A",
+    "model_chipset": "qualcomm_sm8650-ab",
+    "operators": "Smartfren",
+    "width": "1260"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy Watch Ultra",
+    "height": "480",
+    "model": "SM-L705F",
+    "model_chipset": "exynos_1000",
+    "operators": "Smartfren",
+    "width": "480"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A59",
+    "height": "1612",
+    "model": "CPH2617",
+    "model_chipset": "mediatek_dimensity_6020",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Find N5",
+    "height": "2480",
+    "model": "CPH2671",
+    "model_chipset": "qualcomm_sm8750-3-ab",
+    "operators": "XL",
+    "width": "2248"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "Pad Air2",
+    "height": "2408",
+    "model": "Unknown",
+    "model_chipset": "mediatek_helio_g99",
+    "operators": "XL",
+    "width": "1720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy F55",
+    "height": "2400",
+    "model": "SM-E556B/DS",
+    "model_chipset": "qualcomm_sm7450-ab",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno13 Pro",
+    "height": "2800",
+    "model": "CPH2697",
+    "model_chipset": "mediatek_dimensity_8350",
+    "operators": "Indosat",
+    "width": "1272"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 Pro 5G (India)",
+    "height": "2712",
+    "model": "24090RA29C",
+    "model_chipset": "mediatek_dimensity_7300_ultra",
+    "operators": "Indosat",
+    "width": "1220"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy S24",
+    "height": "2340",
+    "model": "SM-S921B",
+    "model_chipset": "exynos_8650",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 8a",
+    "height": "2400",
+    "model": "GKV4X",
+    "model_chipset": "google_tensor_g3",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "13 4G",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Narzo 70x",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6100",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "K12",
+    "height": "2412",
+    "model": "PJR110",
+    "model_chipset": "qualcomm_sm7550-ab",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel Watch 2",
+    "height": "450",
+    "model": "G4TSL",
+    "model_chipset": "qualcomm_5100",
+    "operators": "Indosat",
+    "width": "450"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 3.0,
+    "device": "15 Pro",
+    "height": "3200",
+    "model": "24101PNB7C",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Smartfren",
+    "width": "1440"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy XCover7",
+    "height": "2408",
+    "model": "SM-G556B",
+    "model_chipset": "mediatek_dimensity_6100",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Z9 Turbo Endurance",
+    "height": "2800",
+    "model": "V2352GA",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "XL",
+    "width": "1260"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi 13",
+    "height": "2460",
+    "model": "2404ARN45A",
+    "model_chipset": "mediatek_helio_g91_ultra",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy Tab S9 FE",
+    "height": "2304",
+    "model": "SM-X510",
+    "model_chipset": "exynos_1380",
+    "operators": "Smartfren",
+    "width": "1440"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi 14C 5G",
+    "height": "1640",
+    "model": "2161T142",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "V50",
+    "height": "2392",
+    "model": "V2427",
+    "model_chipset": "qualcomm_sm7550-ab",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A80",
+    "height": "1604",
+    "model": "CPH2639",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "T3 Ultra",
+    "height": "2800",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_9200",
+    "operators": "Indosat",
+    "width": "1260"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy F15",
+    "height": "2340",
+    "model": "SM-E156B",
+    "model_chipset": "mediatek_dimensity_6100",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y03t",
+    "height": "1612",
+    "model": "Unknown",
+    "model_chipset": "unisoc_t612",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "12x (India)",
+    "height": "2400",
+    "model": "RMX3998",
+    "model_chipset": "mediatek_dimensity_6100",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Poco M6 Plus",
+    "height": "2460",
+    "model": "2131G716",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno12",
+    "height": "2412",
+    "model": "CPH2625",
+    "model_chipset": "mediatek_dimensity_7300_energy",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno12 F 4G",
+    "height": "2400",
+    "model": "CPH2687",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A60",
+    "height": "1604",
+    "model": "CPH2631",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy Tab S10+",
+    "height": "2800",
+    "model": "SM-X820",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Tri",
+    "width": "1752"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "S20 Pro",
+    "height": "2800",
+    "model": "V2430A",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Indosat",
+    "width": "1260"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Neo7x",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_snapdragon_6_4",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A3x",
+    "height": "1604",
+    "model": "CPH2681",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "F27 Pro+",
+    "height": "2412",
+    "model": "CPH2643",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Turbo 4",
+    "height": "2712",
+    "model": "2017K183",
+    "model_chipset": "mediatek_dimensity_8400_ultra",
+    "operators": "XL",
+    "width": "1220"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy M15",
+    "height": "2340",
+    "model": "SM-M156B",
+    "model_chipset": "mediatek_dimensity_6100",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 5G (China)",
+    "height": "2400",
+    "model": "24094RAD4C",
+    "model_chipset": "mediatek_dimensity_7025_ultra",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A2x",
+    "height": "1612",
+    "model": "PJU110",
+    "model_chipset": "mediatek_dimensity_6020",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 9 Pro XL",
+    "height": "2992",
+    "model": "GGX8B",
+    "model_chipset": "google_tensor_g4",
+    "operators": "Telkomsel",
+    "width": "1344"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy M14 4G",
+    "height": "2400",
+    "model": "SM-M145F",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "A3 Pro (China)",
+    "height": "2412",
+    "model": "PJY110",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 2",
+    "height": "1920",
+    "model": "G011A",
+    "model_chipset": "qualcomm_unknown",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "T3 Lite",
+    "height": "1612",
+    "model": "V2356",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 7 Pro",
+    "height": "3120",
+    "model": "GP4BC",
+    "model_chipset": "google_tensor_g2",
+    "operators": "Telkomsel",
+    "width": "1440"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel XL",
+    "height": "2560",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_unknown",
+    "operators": "Smartfren",
+    "width": "1440"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A15 5G",
+    "height": "2340",
+    "model": "SM-A156B",
+    "model_chipset": "mediatek_dimensity_6100",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Z9 Turbo+",
+    "height": "2800",
+    "model": "V2417A",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Smartfren",
+    "width": "1260"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Poco Pad",
+    "height": "2560",
+    "model": "2405CPCFBG",
+    "model_chipset": "qualcomm_sm7435-ab",
+    "operators": "Indosat",
+    "width": "1600"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "K12 Plus",
+    "height": "2412",
+    "model": "PKS110",
+    "model_chipset": "qualcomm_sm7550-ab",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "GT6 (China)",
+    "height": "2780",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm8650-ab",
+    "operators": "Smartfren",
+    "width": "1264"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "T3 Pro",
+    "height": "2392",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm7550-ab",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy F05",
+    "height": "1600",
+    "model": "SM-E055F",
+    "model_chipset": "mediatek_helio_g85",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A3x (China)",
+    "height": "1604",
+    "model": "PKD130",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Tri",
+    "width": "720"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 9",
+    "height": "2424",
+    "model": "G2YBB",
+    "model_chipset": "google_tensor_g4",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y200",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm4375",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "12x",
+    "height": "1604",
+    "model": "RMX3997",
+    "model_chipset": "mediatek_dimensity_6100",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y19s",
+    "height": "1608",
+    "model": "V2419",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "A2",
+    "height": "2400",
+    "model": "PJB110",
+    "model_chipset": "mediatek_dimensity_6020",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Narzo 70 Turbo",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_7300_energy",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 3.0,
+    "device": "iQOO 13",
+    "height": "3168",
+    "model": "V2408A",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Tri",
+    "width": "1440"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel Watch 3",
+    "height": "456",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sw5100",
+    "operators": "XL",
+    "width": "456"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y300 Plus",
+    "height": "2400",
+    "model": "V2422",
+    "model_chipset": "qualcomm_sm6375",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "Narzo N63",
+    "height": "1600",
+    "model": "Unknown",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A05s",
+    "height": "2400",
+    "model": "SM-A057F",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "GT Neo6",
+    "height": "2780",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "XL",
+    "width": "1264"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 4",
+    "height": "2280",
+    "model": "G020M",
+    "model_chipset": "qualcomm_sm8150",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 9 Pro Fold",
+    "height": "2152",
+    "model": "GGH2X",
+    "model_chipset": "google_tensor_g4",
+    "operators": "Tri",
+    "width": "2076"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "14x (India)",
+    "height": "1604",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y18i",
+    "height": "1612",
+    "model": "Unknown",
+    "model_chipset": "unisoc_t612",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Watch GT",
+    "height": "450",
+    "model": "Unknown",
+    "model_chipset": "unknown",
+    "operators": "Tri",
+    "width": "390"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "GT 6",
+    "height": "2780",
+    "model": "RMX3851",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "Smartfren",
+    "width": "1264"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Poco M6 4G",
+    "height": "2460",
+    "model": "2404APC5FG",
+    "model_chipset": "mediatek_helio_g91_ultra",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 7a",
+    "height": "2400",
+    "model": "GWKK3",
+    "model_chipset": "google_tensor_g2",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "A3 4G",
+    "height": "1604",
+    "model": "CPH2669",
+    "model_chipset": "qualcomm_snapdragon_6_1",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Reno13",
+    "height": "2760",
+    "model": "CPH2689",
+    "model_chipset": "mediatek_dimensity_8350",
+    "operators": "Indosat",
+    "width": "1256"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "GT 7 Pro",
+    "height": "2780",
+    "model": "RMX5010",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Indosat",
+    "width": "1264"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A16",
+    "height": "2340",
+    "model": "SM-A165F",
+    "model_chipset": "mediatek_helio_g99",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi A3 Pro",
+    "height": "1640",
+    "model": "2409BRN2CG",
+    "model_chipset": "mediatek_helio_g81_ultra",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y37 Pro",
+    "height": "1608",
+    "model": "V2354A",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "C65",
+    "height": "1604",
+    "model": "RMX3910",
+    "model_chipset": "mediatek_helio_g85",
+    "operators": "Tri",
+    "width": "720"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi Pad Pro 5G",
+    "height": "2560",
+    "model": "24074RPD2G",
+    "model_chipset": "qualcomm_sm7435-ab",
+    "operators": "Smartfren",
+    "width": "1600"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "P1 Pro",
+    "height": "2412",
+    "model": "RMX3844",
+    "model_chipset": "qualcomm_sm6450",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y18t",
+    "height": "1612",
+    "model": "Unknown",
+    "model_chipset": "unisoc_t612",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 3.0,
+    "device": "Find X7 Ultra",
+    "height": "3168",
+    "model": "PHY110",
+    "model_chipset": "qualcomm_sm8650-ab",
+    "operators": "Smartfren",
+    "width": "1440"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.0,
+    "device": "Galaxy Tab A9+",
+    "height": "1920",
+    "model": "SM-X210",
+    "model_chipset": "qualcomm_sm6375",
+    "operators": "XL",
+    "width": "1200"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "12 Lite",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Neo10 Pro (China)",
+    "height": "2800",
+    "model": "2426A",
+    "model_chipset": "mediatek_dimensity_9400",
+    "operators": "Smartfren",
+    "width": "1260"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 3",
+    "height": "2160",
+    "model": "G013A",
+    "model_chipset": "qualcomm_snapdragon_845_845",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A26",
+    "height": "2340",
+    "model": "SM-A266E",
+    "model_chipset": "exynos_1380",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 3a XL",
+    "height": "2160",
+    "model": "G020C",
+    "model_chipset": "qualcomm_snapdragon_670_670",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Z9s",
+    "height": "2392",
+    "model": "I2403",
+    "model_chipset": "mediatek_dimensity_7300",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy M06",
+    "height": "1600",
+    "model": "SM-M066B",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy S25",
+    "height": "2340",
+    "model": "SM-S931B",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "iQOO Neo10 (China)",
+    "height": "2800",
+    "model": "2425A",
+    "model_chipset": "qualcomm_sm8650-ab",
+    "operators": "Indosat",
+    "width": "1260"
+  },
+  {
+    "brand": "Google",
+    "density": 1.5,
+    "device": "Pixel C",
+    "height": "1800",
+    "model": "Unknown",
+    "model_chipset": "nvidia_tegra_x1",
+    "operators": "Telkomsel",
+    "width": "2560"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 3.0,
+    "device": "Poco F6 Pro",
+    "height": "3200",
+    "model": "23113RKC6G",
+    "model_chipset": "qualcomm_sm8550-ab",
+    "operators": "Smartfren",
+    "width": "1440"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 4a 5G",
+    "height": "2340",
+    "model": "GD1YQ",
+    "model_chipset": "qualcomm_sm7250",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A16 5G",
+    "height": "2340",
+    "model": "SM-A166B",
+    "model_chipset": "exynos_1330",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 Pro+ 5G",
+    "height": "2712",
+    "model": "24094RAD4G",
+    "model_chipset": "qualcomm_sm7635",
+    "operators": "Telkomsel",
+    "width": "1220"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 9 Pro",
+    "height": "2856",
+    "model": "GR83Y",
+    "model_chipset": "google_tensor_g4",
+    "operators": "Indosat",
+    "width": "1280"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y200 4G",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm6225",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 3a",
+    "height": "2220",
+    "model": "G020A",
+    "model_chipset": "qualcomm_snapdragon_670_670",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Poco M7",
+    "height": "1640",
+    "model": "24108PCE2I",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Narzo 70",
+    "height": "2400",
+    "model": "RMX3869",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "T4x",
+    "height": "2408",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_7300",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "14T",
+    "height": "2712",
+    "model": "2406APNFAG",
+    "model_chipset": "mediatek_dimensity_8300_ultra",
+    "operators": "XL",
+    "width": "1220"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy M55s",
+    "height": "2400",
+    "model": "SM-M558B",
+    "model_chipset": "qualcomm_sm7450-ab",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Poco Pad 5G",
+    "height": "2560",
+    "model": "2157K587",
+    "model_chipset": "qualcomm_sm7435-ab",
+    "operators": "Telkomsel",
+    "width": "1600"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.33,
+    "device": "Galaxy Tab S10 Ultra",
+    "height": "2960",
+    "model": "SM-X920",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Indosat",
+    "width": "1848"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "C63",
+    "height": "1600",
+    "model": "Unknown",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "V40",
+    "height": "2800",
+    "model": "V2348",
+    "model_chipset": "qualcomm_sm7550-ab",
+    "operators": "Tri",
+    "width": "1260"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 5a 5G",
+    "height": "2400",
+    "model": "G1F8F",
+    "model_chipset": "qualcomm_sm7250",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "S20",
+    "height": "2800",
+    "model": "V2429A",
+    "model_chipset": "qualcomm_sm7550-ab",
+    "operators": "Tri",
+    "width": "1260"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A25",
+    "height": "2340",
+    "model": "SM-A256E",
+    "model_chipset": "exynos_1280",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Watch S2",
+    "height": "466",
+    "model": "Unknown",
+    "model_chipset": "unknown",
+    "operators": "Indosat",
+    "width": "466"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Poco X7 Pro",
+    "height": "2712",
+    "model": "2412DPC0AG",
+    "model_chipset": "mediatek_dimensity_8400_ultra",
+    "operators": "Indosat",
+    "width": "1220"
+  },
+  {
+    "brand": "Google",
+    "density": 3.0,
+    "device": "Pixel 8 Pro",
+    "height": "2992",
+    "model": "GC3VE",
+    "model_chipset": "google_tensor_g3",
+    "operators": "XL",
+    "width": "1344"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi K70 Ultra",
+    "height": "2712",
+    "model": "2407FRK8EC",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Tri",
+    "width": "1220"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy Tab Active5",
+    "height": "1200",
+    "model": "SM-X306B",
+    "model_chipset": "exynos_1380",
+    "operators": "Tri",
+    "width": "1920"
+  },
+  {
+    "brand": "Samsung",
+    "density": 1.5,
+    "device": "Galaxy Tab S9 FE+",
+    "height": "2560",
+    "model": "SM-X610",
+    "model_chipset": "exynos_1380",
+    "operators": "Tri",
+    "width": "1600"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 13R",
+    "height": "2460",
+    "model": "2406ERN9CC",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y300",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "Narzo 70 Pro",
+    "height": "2400",
+    "model": "RMX3868",
+    "model_chipset": "mediatek_dimensity_7050",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "Pad 3 Pro",
+    "height": "3000",
+    "model": "OPD2401",
+    "model_chipset": "qualcomm_sm8650-ac",
+    "operators": "Tri",
+    "width": "2120"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "C61 (India)",
+    "height": "1600",
+    "model": "RMX3939",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel 7",
+    "height": "2400",
+    "model": "GVU6C",
+    "model_chipset": "google_tensor_g2",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 3.0,
+    "device": "15 Ultra",
+    "height": "3200",
+    "model": "2185T922",
+    "model_chipset": "qualcomm_sm8750-ab",
+    "operators": "Tri",
+    "width": "1440"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Pad 7 Pro",
+    "height": "3200",
+    "model": "2076K526",
+    "model_chipset": "qualcomm_sm8635",
+    "operators": "Smartfren",
+    "width": "2136"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "X200 Pro mini",
+    "height": "2640",
+    "model": "V2419A",
+    "model_chipset": "mediatek_dimensity_9400",
+    "operators": "Indosat",
+    "width": "1216"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi 13 5G",
+    "height": "2460",
+    "model": "2237T368",
+    "model_chipset": "qualcomm_sm4450",
+    "operators": "Telkomsel",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 1.5,
+    "device": "K12x",
+    "height": "1604",
+    "model": "CPH2667",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Tri",
+    "width": "720"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Poco C75",
+    "height": "1640",
+    "model": "2410FPCC5G",
+    "model_chipset": "mediatek_helio_g81_ultra",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy Z Flip6",
+    "height": "2640",
+    "model": "SM-F741B",
+    "model_chipset": "qualcomm_sm8650-ac",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y29",
+    "height": "1608",
+    "model": "V2420",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Google",
+    "density": 1.5,
+    "device": "Pixel Tablet",
+    "height": "2560",
+    "model": "Unknown",
+    "model_chipset": "google_tensor_g2",
+    "operators": "Telkomsel",
+    "width": "1600"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi 14C",
+    "height": "1640",
+    "model": "2411DRN47C",
+    "model_chipset": "mediatek_helio_g81_ultra",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "13 Pro",
+    "height": "2412",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm7435-ab",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Poco C75 5G",
+    "height": "1640",
+    "model": "MZB0IDJIN",
+    "model_chipset": "qualcomm_sm4635",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "V60 pro",
+    "height": "1604",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "Smartfren",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A36",
+    "height": "2340",
+    "model": "SM-A366E",
+    "model_chipset": "qualcomm_sm6475-ab",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Redmi Note 14 5G (India)",
+    "height": "2400",
+    "model": "2285K818",
+    "model_chipset": "mediatek_dimensity_7025_ultra",
+    "operators": "Smartfren",
+    "width": "1080"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 1.5,
+    "device": "Redmi 14C (China)",
+    "height": "1640",
+    "model": "2285T740",
+    "model_chipset": "mediatek_helio_g81_ultra",
+    "operators": "Indosat",
+    "width": "720"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "C75",
+    "height": "2400",
+    "model": "Unknown",
+    "model_chipset": "mediatek_helio_g92_max",
+    "operators": "Indosat",
+    "width": "1080"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "A3 (China)",
+    "height": "2412",
+    "model": "PKA110",
+    "model_chipset": "qualcomm_sm6375",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Samsung",
+    "density": 3.0,
+    "device": "Galaxy S24+",
+    "height": "3120",
+    "model": "SM-S926B",
+    "model_chipset": "exynos_8650",
+    "operators": "Smartfren",
+    "width": "1440"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "C65 5G",
+    "height": "1604",
+    "model": "Unknown",
+    "model_chipset": "mediatek_dimensity_6300",
+    "operators": "XL",
+    "width": "720"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Watch X",
+    "height": "466",
+    "model": "OWWE231",
+    "model_chipset": "qualcomm_snapdragon_5_1",
+    "operators": "XL",
+    "width": "466"
+  },
+  {
+    "brand": "Google",
+    "density": 2.0,
+    "device": "Pixel Watch",
+    "height": "450",
+    "model": "GQF4C",
+    "model_chipset": "exynos_9110",
+    "operators": "Indosat",
+    "width": "450"
+  },
+  {
+    "brand": "Oppo",
+    "density": 2.0,
+    "device": "Find X7",
+    "height": "2780",
+    "model": "PHZ110",
+    "model_chipset": "mediatek_dimensity_9300",
+    "operators": "Telkomsel",
+    "width": "1264"
+  },
+  {
+    "brand": "Vivo",
+    "density": 1.5,
+    "device": "Y28 4G",
+    "height": "1608",
+    "model": "V2352",
+    "model_chipset": "mediatek_helio_g85",
+    "operators": "Tri",
+    "width": "720"
+  },
+  {
+    "brand": "Samsung",
+    "density": 2.0,
+    "device": "Galaxy A55",
+    "height": "2340",
+    "model": "SM-A556V",
+    "model_chipset": "exynos_1480",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "Y300 Pro",
+    "height": "2392",
+    "model": "V2410A",
+    "model_chipset": "qualcomm_sm6450",
+    "operators": "XL",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "Note 60",
+    "height": "1600",
+    "model": "RMX3933",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "Telkomsel",
+    "width": "720"
+  },
+  {
+    "brand": "Xiaomi",
+    "density": 2.0,
+    "device": "Watch S4",
+    "height": "466",
+    "model": "M2424W1",
+    "model_chipset": "unknown",
+    "operators": "XL",
+    "width": "466"
+  },
+  {
+    "brand": "Vivo",
+    "density": 2.0,
+    "device": "X200",
+    "height": "2800",
+    "model": "V2415A",
+    "model_chipset": "mediatek_dimensity_9400",
+    "operators": "Tri",
+    "width": "1260"
+  },
+  {
+    "brand": "Realme",
+    "density": 2.0,
+    "device": "P2 Pro",
+    "height": "2412",
+    "model": "Unknown",
+    "model_chipset": "qualcomm_sm7435-ab",
+    "operators": "Tri",
+    "width": "1080"
+  },
+  {
+    "brand": "Realme",
+    "density": 1.5,
+    "device": "Note 60x",
+    "height": "1600",
+    "model": "Unknown",
+    "model_chipset": "unisoc_tiger_t612",
+    "operators": "Telkomsel",
+    "width": "720"
+  }
+]

@@ -1,0 +1,1 @@
+triya.niu|tia123|[FBAN/FB4A;FBAV/90.0.0.17.69;FBBV/39523644;FBDM/{density=320,width=1236,height=2750};FBLC/id_ID;FBRV/0;FBCR/Indosat;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.mahos;FBDV/2038T564;FBSV/4.3;FBOP/1;FBCA/armeabi:;]

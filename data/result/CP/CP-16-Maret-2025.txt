@@ -1,0 +1,3 @@
+tontagana|tagana2024|[FBAN/FB4A;FBAV/90.0.0.17.69;FBBV/39475134;FBDM/{density=320,width=1256,height=2760};FBLC/id_ID;FBRV/0;FBCR/Indosat;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.mahos;FBDV/CPH2651;FBSV/11;FBOP/1;FBCA/armeabi:;]
+oma.marcho|binontoan|[FBAN/FB4A;FBAV/90.0.0.17.69;FBBV/57485989;FBDM/{density=240,width=720,height=1604};FBLC/id_ID;FBRV/0;FBCR/Tri;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.mahos;FBDV/PKD130;FBSV/13;FBOP/1;FBCA/armeabi:;]
+khaerudin.gujel.984|cirebon123|[FBAN/FB4A;FBAV/90.0.0.17.69;FBBV/32640886;FBDM/{density=320,width=1080,height=2412};FBLC/id_ID;FBRV/0;FBCR/Tri;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.mahos;FBDV/PKA110;FBSV/5.1.1;FBOP/1;FBCA/armeabi:;]

@@ -1,0 +1,1 @@
+suci.handryan|nona123|[FBAN/FB4A;FBAV/90.0.0.17.69;FBBV/58739823;FBDM/{density=320,width=1080,height=2340};FBLC/id_ID;FBRV/0;FBCR/XL;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.mahos;FBDV/SM-A366E;FBSV/4.3;FBOP/1;FBCA/armeabi:;]
