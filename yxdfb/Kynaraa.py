@@ -153,15 +153,7 @@ class Kynaa:
         return random.randint(min_val, max_val)
 
     def generate_random_user_agent_api(self):
-        # Daftar Model Xiaomi (120+ model)
         mi_models = random.choice([
-            # Mi Series
-            "Mi 10", "Mi 10 Lite (5G)", "Mi 10 Lite Zoom", "Mi 10 Pro", "Mi 10 Ultra",
-            "Mi 11", "Mi 11 (5G)", "Mi 11 LE", "Mi 11 Lite", "Mi 11 Lite (5G)", 
-            "Mi 11 Lite 5G NE", "Mi 11 Lite NE (5G)", "Mi 11 Pro", "Mi 11 Pro (5G)", 
-            "Mi 11 Ultra (5G)", "Mi 11i", "Mi 11i (5G)", "Mi 11T (5G)", "Mi 11T Pro", 
-            "Mi 11T Pro (5G)", "Mi 11X", "Mi 11X Pro (5G)", "Mi 12 Pro", "Mi 12T Pro",
-            "Mi 13 Ultra", "Mi 14 Pro", "Mi Mix Fold 3", "Mi Pad 6", "Mi Note 12", 
             "Mi 10", "Mi 10 Lite (5G)", "Mi 10 Lite Zoom", "Mi 10 Pro", "Mi 10 Ultra",
             "Mi 11", "Mi 11 (5G)", "Mi 11 LE", "Mi 11 Lite", "Mi 11 Lite (5G)", "Mi 11 Lite 5G NE",
             "Mi 11 Lite NE (5G)", "Mi 11 Pro", "Mi 11 Pro (5G)", "Mi 11 Ultra (5G)", "Mi 11i",
@@ -171,168 +163,22 @@ class Kynaa:
             "M2102K1AC", "M2012K11I", "22041219I", "22041216I", "2203121C", "2106118C",
             "2201123G", "2203129G", "2201122G", "2201122C", "2206122SC", "22081212C",
             "2112123AG", "2112123AC", "2109119BC", "M2002J9G", "M2007J1SC",
-            "M2007J17I", "M2102J2SC", "M2007J3SY", "M2007J17G", "M2007J3SG",
-            # Redmi Series
-            "Redmi 9", "Redmi 9A", "Redmi 9C", "Redmi 10", "Redmi 10A",
-            "Redmi 10C", "Redmi Note 10", "Redmi Note 10 Pro", "Redmi Note 11", 
-            "Redmi Note 11 Pro", "Redmi Note 11 Pro+", "Redmi Note 12", 
-            "Redmi Note 12 Pro", "Redmi Note 12 Turbo", "Redmi Note 13", 
-            "Redmi Note 13 Pro", "Redmi Note 13 Pro+", "Redmi K40", "Redmi K50", 
-            "Redmi K50 Pro", "Redmi K60", "Redmi K60 Pro", "Redmi K60 Ultra",
-            "Redmi K70", "Redmi K70 Pro", "Redmi A2", "Redmi A3", "Redmi Go",
-            
-            # POCO Series
-            "POCO F3", "POCO F4", "POCO F5", "POCO X4", "POCO X5",
-            "POCO X6", "POCO M4", "POCO M5", "POCO M6", "POCO C40",
-            "POCO C50", "POCO C55", "POCO C65", "POCO U1", "POCO U2",
-            "POCO F6 Pro", "POCO X6 Neo", "POCO M6 Pro", "POCO C61",
-            
-            # Black Shark
-            "Black Shark 4", "Black Shark 5", "Black Shark 5 Pro", 
-            "Black Shark 6", "Black Shark 6 Pro", "Black Shark Helo",
-            "Black Shark Hammer", "Black Shark Joy", "Black Shark Surf",
-            "Black Shark Storm", "Black Shark Blade", "Black Shark Nova",
-            "Black Shark Quantum", "Black Shark Rift", "Black Shark Void",
-            "Black Shark Nitro", "Black Shark Titan", "Black Shark Phantom"
+            "M2007J17I", "M2102J2SC", "M2007J3SY", "M2007J17G", "M2007J3SG"
         ])
-        
-        # Daftar Model Pixel (70+ model)
         pixel_models = random.choice([
-            "Pixel 2", "Pixel 2 XL", "Pixel 3", "Pixel 3 XL", "Pixel 3A", 
-            "Pixel 3A XL", "Pixel 4", "Pixel 4 XL", "Pixel 4a", "Pixel 4a (5G)", 
-            "Pixel 5", "Pixel 5a (5G)", "Pixel 6", "Pixel 6 Pro", "Pixel 6a", 
-            "Pixel 7", "Pixel 7 Pro", "Pixel 7a", "Pixel 8", "Pixel 8 Pro", 
-            "Pixel 8 Pro (5G)", "Pixel 8a", "Pixel 9", "Pixel 9 Pro", 
-            "Pixel 9 Pro Fold", "Pixel 9 Pro XL", "Pixel 10", "Pixel 10 Pro",
-            "Pixel 10 Pro Fold", "Pixel 10 Ultra", "Pixel Fold 1", "Pixel Fold 2", 
-            "Pixel Fold 3", "Pixel Fold 4", "Pixel Fold 5", "Pixel Watch 1",
-            "Pixel Watch 2", "Pixel Tablet 1", "Pixel Tablet 2", "Pixel Ultra 1",
-            "Pixel Slim", "Pixel Play", "Pixel Max", "Pixel Mini", "Pixel Lite",
-            "Pixel Neo", "Pixel X", "Pixel Z", "Pixel Omega", "Pixel Quantum",
-            "Pixel 4a", "Pixel 5a", "Pixel 6a", "Pixel 7a", "Pixel 8a",
-            "Pixel 9a", "Pixel 10a", "Pixel a1", "Pixel a2", "Pixel a3",
-            "Pixel a4", "Pixel a5", "Pixel a6", "Pixel a7", "Pixel a8",
-            "Pixel a9", "Pixel a10", "Pixel a11", "Pixel a12", "Pixel a13"
+            "Pixel 2", "Pixel 2 XL", "Pixel 3", "Pixel 3 XL", "Pixel 3A", "Pixel 3A XL",
+            "Pixel 4", "Pixel 4 XL", "Pixel 4a", "Pixel 4a (5G)", "Pixel 5", "Pixel 5a (5G)",
+            "Pixel 6", "Pixel 6 Pro", "Pixel 6a", "Pixel 7", "Pixel 7 Pro", "Pixel 7a",
+            "Pixel 8", "Pixel 8 Pro", "Pixel 8 Pro (5G)", "Pixel 8a", "Pixel 9", "Pixel 9 Pro",
+            "Pixel 9 Pro Fold", "Pixel 9 Pro XL"
         ])
-        
-        # Versi Android
-        ver_os = random.choice([
-            '9|PPR1', '10|QP1A', '11|RP1A', '12|SP1A', '13|TP1A', 
-            '14|UP1A', '15|VP1A', '16|WP1A', '17|XP1A', '18|YP1A',
-            '19|ZP1A', '20|AQ1A', '21|BQ1A', '22|CQ1A', '23|DQ1A',
-            '24|EQ1A', '25|FQ1A', '26|GQ1A', '27|HQ1A', '28|IQ1A',
-            '29|JQ1A', '30|KQ1A', '31|LQ1A', '32|MQ1A', '33|NQ1A',
-            '34|OQ1A', '35|PQ1A', '36|QQ1A', '37|RQ1A', '38|SQ1A',
-            '39|TQ1A', '40|UQ1A', '41|VQ1A', '42|WQ1A', '43|XQ1A',
-            '44|YQ1A', '45|ZQ1A', '46|AR1A', '47|BR1A', '48|CR1A',
-            '49|DR1A', '50|ER1A', '51|FR1A', '52|GR1A', '53|HR1A',
-            '54|IR1A', '55|JR1A', '56|KR1A', '57|LR1A', '58|MR1A'
-        ])
-        
+        ver_os = random.choice(['9|PPR1', '10|QP1A', '11|RP1A', '12|SP1A', '13|TP1A', '14|UP1A'])
         android = ver_os.split("|")[0]
-        density = self.random_float(1.0, 4.0)
-        width = self.random_int(720, 1440)
-        height = self.random_int(1280, 2560)
-        
-        # Daftar Operator (100+)
-        carrier = random.choice([
-            'Telkomsel', 'XL', 'Indosat', 'Smartfren', 'Tri',
-            'By.U', 'Axis', 'Ceria', 'Net1', 'LiveOn',
-            '3', 'Bolt', 'Fren', 'Halo', 'IM3',
-            'Jetbis', 'Kartu As', 'Loop', 'Mentari', 'Neo',
-            'Ooredoo', 'ProXL', 'Qoin', 'Ratel', 'Smart',
-            'Telin', 'U Mobile', 'Vectone', 'Wifi.id', 'Xoxo',
-            'Yes', 'Zap', 'Aqua', 'Bintang', 'Cellular',
-            'Dito', 'Esia', 'Flexi', 'Grape', 'Hawk',
-            'Itcel', 'Jempol', 'KartuKu', 'Lintas', 'Matrix',
-            'Nexian', 'Orbit', 'Patrakom', 'Quantum', 'Razer',
-            'Sampoerna', 'Tiphone', 'Unitech', 'Vodacom', 'Wave',
-            'Xplor', 'Yup', 'Zebra', 'First Media', 'Biznet',
-            'MNC Play', 'Indihome', 'Bolt Super 4G', 'XL Prioritas',
-            'Telkomsel Halo', 'Indosat Ooredoo', 'Smartfren Unlimited',
-            'Tri Unlimited', 'Axis Owsem', 'By.U Flex', 'Ceria Unlimited',
-            'Net1 Super', 'LiveOn VIP', '3 Supernet', 'Bolt Turbo',
-            'Fren Unlimited', 'Halo Platinum', 'IM3 Unlimited',
-            'Jetbis Pro', 'Kartu As Premium', 'Loop Ultimate',
-            'Mentari Gold', 'Neo Plus', 'Ooredoo Elite',
-            'ProXL Business', 'Qoin Corporate', 'Ratel Pro',
-            'Smart Executive', 'Telin Enterprise', 'U Mobile VIP',
-            'Vectone Business', 'Wifi.id Pro', 'Xoxo Platinum',
-            'Yes Ultra', 'Zap Infinite', 'Aqua Diamond',
-            'Bintang Platinum', 'Cellular Pro'
-        ])
-        
-        # Kombinasi Device (100+)
-        device = random.choice([
-            f'google|{pixel_models}',
-            f'xiaomi|{mi_models}',
-            'samsung|Galaxy S24 Ultra',
-            'oppo|Reno 10 Pro',
-            'vivo|V30 Pro',
-            'realme|GT Neo 6',
-            'oneplus|12 Pro',
-            'asus|ZenFone 11',
-            'nokia|G60',
-            'sony|Xperia 1 VI',
-            'motorola|Edge 40',
-            'huawei|P60 Pro',
-            'honor|Magic 6',
-            'lenovo|Legion Y90',
-            'infinix|Zero 30',
-            'tecno|Phantom V',
-            'itel|Vision 6',
-            'sharp|Aquos R8',
-            'ztec|Blade V40',
-            'blackberry|Key3',
-            'htc|U23 Pro',
-            'lg|Wing 2',
-            'meizu|20 Pro',
-            'nubia|Z60 Ultra',
-            'roq|X7 Pro'
-        ])
-        
+        density, width, height = self.random_float(1.0, 4.0), self.random_int(720, 1440), self.random_int(1280, 2560)
+        carrier = random.choice(['Telkomsel', 'XL', 'Indosat', 'Smartfren', 'Tri'])
+        device = random.choice([f'google|{pixel_models}', f'xiaomi|{mi_models}'])
         device_brand, device_model = device.split("|")[0], device.split("|")[1]
-
-        # Random pilih format
-        if random.choice([True, False]):
-            # Format 1: Professional dengan parameter tambahan
-            android_versions = [
-                ('14', 'UQ1A.240205.002', '2024-02-05'),
-                ('13', 'TQ3A.230901.001', '2023-09-01'),
-                ('12', 'SP2A.220405.004', '2023-07-20')
-            ]
-            android_ver = random.choice(android_versions)
-            return (
-                f"[FBAN/FB4A;FBAV/{random.randint(480,520)}.0.0.{self.random_int(10,99)}.{self.random_int(10,99)};"
-                f"FBBV/{self.random_int(100000000,999999999)};"
-                f"FBDM/{{density={density},width={width},height={height}}};"
-                f"FBLC/en_US;FBRV/0;"
-                f"FBCR/{carrier};"
-                f"FBMF/{device_brand};FBBD/{device_brand};"
-                f"FBPN/com.facebook.katana;"
-                f"FBDV/{device_model};"
-                f"FBSV/{android_ver[0]};"
-                f"FBOP/1;FBCA/arm64-v8a:;"
-                f"FB_FW/1;"
-                f"RLDV/{self.random_int(10000,99999)};"
-                f"BLDV/202{random.randint(3,4)}{random.randint(1,12):02}{random.randint(10,28):02};"
-                f"FBBK/1;"
-                f"FBSB/{random.choice(['RELEASE','NIGHTLY'])};]"
-            )
-        else:
-            # Format 2: Original
-            return (
-                f'[FBAN/FB4A;FBAV/486.0.0.{self.random_int(10,99)}.{self.random_int(10,99)};'
-                f'FBBV/{self.random_int(653066364,953066364)};'
-                f'FBDM/{{density={density},width={width},height={height}}};'
-                f'FBLC/id_ID;FBRV/0;'
-                f'FBCR/{carrier};'
-                f'FBMF/{device_brand.capitalize()};'
-                f'FBBD/{device_brand};'
-                f'FBPN/com.facebook.mahos;'
-                f'FBDV/{device_model};'
-                f'FBSV/{android};FBOP/1;FBCA/arm64-v8a:;]'
-            )
+        return f'[FBAN/FB4A;FBAV/486.0.0.{str(random.randint(10,99))}.{str(random.randint(10,99))};FBBV/{str(random.randint(653066364,953066364))};FBDM/{{density={density},width={width},height={height}}};FBLC/id_ID;FBRV/0;FBCR/{carrier};FBMF/{device_brand.capitalize()};FBBD/{device_brand};FBPN/com.facebook.mahos;FBDV/{device_model};FBSV/{android};FBOP/1;FBCA/arm64-v8a:;]'
 
 
     def graph_v1(self, user, pasw):
